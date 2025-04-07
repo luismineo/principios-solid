@@ -1,0 +1,4 @@
+ID: 1542 - Frete: 550.0
+ID: 1056 - Frete: 560.0
+ID: 1463 - Frete: 330.0
+ID: 1122 - Frete: 550.0
